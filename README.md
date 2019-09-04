@@ -1,7 +1,7 @@
 # General Purpose Blockchain
-General Purpose Blockchain created as part of a Blockchain course. 
+General Purpose Blockchain I have created as part of a Blockchain course. 
 
-# Required
+## Required
 Python 3.6
 
 Flask: install in terminal 
@@ -10,7 +10,7 @@ Flask: install in terminal
 Quickstart guide: 
 ```https://flask.palletsprojects.com/en/1.0.x/quickstart/```
 
-# Libraries
+## Libraries
 - datetime - needed time stamping of blocks
 - hashlib - used to hash the blocks
 - json - used to encode the blocks before they are hashed
