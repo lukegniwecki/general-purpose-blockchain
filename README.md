@@ -1,8 +1,8 @@
 # General Purpose Blockchain
-General Purpose Blockchain I have created in Python as part of a Blockchain course. 
+General Purpose Blockchain created as part of a Blockchain course. 
 
 # Required
-Python
+Python 3.6
 
 Flask: install in terminal 
 ```pip install Flask==0.12.2```
@@ -17,7 +17,8 @@ Quickstart guide:
 - Flask - Flask class from the flask library for creating a web application 
 - jsonify - used to return messages in postman when requesting the state of the blockchain or asking to return the key info of the block that has been mined in the json format
 
-# Requests to query the blockchain once the application is running in on Flask
+## Requests 
+Requests used query the blockchain once the application is running in on Flask:
 - http://127.0.0.1:5000/get_chain
 - http://127.0.0.1:5000/mine_block
 - http://127.0.0.1:5000/is_chain_valid 
