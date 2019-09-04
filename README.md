@@ -11,11 +11,11 @@ Quickstart guide:
 ```https://flask.palletsprojects.com/en/1.0.x/quickstart/```
 
 ## Libraries
-- datetime - needed time stamping of blocks
+- datetime - needed for time stamping of blocks in Unix time timestamp
 - hashlib - used to hash the blocks
 - json - used to encode the blocks before they are hashed
-- Flask - Flask class from the flask library for creating a web application 
-- jsonify - used to return messages in postman when requesting the state of the blockchain or asking to return the key info of the block that has been mined in the json format
+- Flask - Flask class from the flask library used to create a web application 
+- jsonify - used to return messages in postman when requesting the state of the blockchain or key info of the block that has been mined 
 
 ## Requests 
 Requests used to query the blockchain once the application is running on Flask:
