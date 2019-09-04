@@ -23,8 +23,8 @@ Requests used to query the blockchain once the application is running on Flask:
 **Get Chain** 
 - Queries the current state of blockchain: http://127.0.0.1:5000/get_chain
 
-**Mine Block**:
+**Mine Block**
 - Mines a new block: http://127.0.0.1:5000/mine_block
 
-**Is Chain Valid**: 
+**Is Chain Valid** 
 - Checks if Blockchain is valid i.e. if all previous hashes match with corresponding blocks: http://127.0.0.1:5000/is_chain_valid 
