@@ -3,7 +3,8 @@ General Purpose Blockchain I have created in Python as part of a Blockchain cour
 
 # Required
 Flask: install in terminal 
-*pip install Flask==0.12.2*
+- *pip install Flask==0.12.2*
+
 Quickstart guide: https://flask.palletsprojects.com/en/1.0.x/quickstart/
 
 # Libraries
