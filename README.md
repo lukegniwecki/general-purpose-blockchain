@@ -6,7 +6,7 @@ Flask: install in terminal
 *pip install Flask==0.12.2*
 Quickstart guide: https://flask.palletsprojects.com/en/1.0.x/quickstart/
 
-# Libraries used
+# Libraries
 datetime - needed time stamping of blocks
 hashlib - used to hash the blocks
 json - used to encode the blocks before they are hashed
