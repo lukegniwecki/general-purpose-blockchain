@@ -11,7 +11,7 @@ Quickstart guide:
 ```https://flask.palletsprojects.com/en/1.0.x/quickstart/```
 
 ## Libraries
-- datetime - needed for time stamping of blocks in Unix time timestamp
+- datetime - needed for time stamping blocks in Unix time timestamp
 - hashlib - used to hash the blocks
 - json - used to encode the blocks before they are hashed
 - Flask - Flask class from the flask library used to create a web application 
