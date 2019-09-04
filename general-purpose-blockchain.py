@@ -53,7 +53,7 @@ class Blockchain:
             block_index += 1
         return True
     
-# Web App on which the blockchain can be run
+# Web App on which the blockchain will be run
 app = Flask(__name__)     
         
 blockchain = Blockchain() 
