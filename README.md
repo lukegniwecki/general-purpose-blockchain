@@ -1,5 +1,5 @@
 # General Purpose Blockchain
-General Purpose Blockchain I have created as part of a Blockchain course. 
+General Purpose Blockchain I have created in Python as part of a Blockchain course. 
 
 ## Required
 Python 3.6
