@@ -19,6 +19,12 @@ Quickstart guide:
 
 ## Requests 
 Requests used query the blockchain once the application is running in on Flask:
-- http://127.0.0.1:5000/get_chain
-- http://127.0.0.1:5000/mine_block
-- http://127.0.0.1:5000/is_chain_valid 
+
+**Get Chain** 
+- Queries the current state of blockchain: http://127.0.0.1:5000/get_chain
+
+**Mine Block**:
+- Mines a new block: http://127.0.0.1:5000/mine_block
+
+**Is Chain Valid**: 
+- Checks if Blockchain is valid i.e. if all previous hashes correspond across all blocks: http://127.0.0.1:5000/is_chain_valid 
