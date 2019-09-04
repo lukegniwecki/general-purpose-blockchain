@@ -18,7 +18,7 @@ Quickstart guide:
 - jsonify - used to return messages in postman when requesting the state of the blockchain or asking to return the key info of the block that has been mined in the json format
 
 ## Requests 
-Requests used to query the blockchain once the application is running in on Flask:
+Requests used to query the blockchain once the application is running on Flask:
 
 **Get Chain** 
 - Queries the current state of blockchain: http://127.0.0.1:5000/get_chain
