@@ -10,6 +10,9 @@ Flask: install in terminal
 Quickstart guide: 
 ```https://flask.palletsprojects.com/en/1.0.x/quickstart/```
 
+Postman HTTP Client
+```https://www.getpostman.com```
+
 ## Libraries
 - datetime - needed for time stamping blocks in Unix time timestamp
 - hashlib - used to hash the blocks
@@ -18,7 +21,7 @@ Quickstart guide:
 - jsonify - used to return messages in postman when requesting the state of the blockchain or key info of the block that has been mined 
 
 ## Requests 
-Requests used to query the blockchain once the application is running on Flask:
+Requests used to query the blockchain in Postman once the application is running on Flask:
 
 **Get Chain** 
 - Queries the current state of blockchain: http://127.0.0.1:5000/get_chain
