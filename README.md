@@ -30,4 +30,4 @@ Requests used to query the blockchain in Postman once the application is running
 - Mines a new block: http://127.0.0.1:5000/mine_block
 
 **Is Chain Valid** 
-- Checks if Blockchain is valid i.e. if all previous hashes match with corresponding blocks: http://127.0.0.1:5000/is_chain_valid 
+- Checks if Blockchain is valid i.e. if all previous hashes match with corresponding blocks: http://127.0.0.1:5000/is_valid 
